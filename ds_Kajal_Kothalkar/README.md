@@ -97,7 +97,7 @@ This approach is commonly used in financial analytics when direct leverage data 
 All notebooks are publicly accessible:
 
 - **Notebook 1 (Main Analysis):**  
-  [👉 _Paste your Colab link here_](https://colab.research.google.com/drive/1RYqzQEsIhoRQVPB_SM-wGoYdR0m9G1-L?usp=sharing)
+https://colab.research.google.com/drive/1RYqzQEsIhoRQVPB_SM-wGoYdR0m9G1-L?usp=sharing
 
 
 Access setting: **Anyone with the link can view**
